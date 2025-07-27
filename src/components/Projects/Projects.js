@@ -43,7 +43,7 @@ function Projects() {
               isBlog={false}
               title="Art Gallery & Analytics"
               description="Users can upload their artwork and see how their art performs using analytics visualized in charts. Built with charts.js or Recharts."
-              ghLink="#https://github.com/mukhthar016/Art-gallery"
+              ghLink="https://github.com/mukhthar016/Art-gallery"
               demoLink="#"
             />
           </Col>
@@ -54,7 +54,7 @@ function Projects() {
               isBlog={false}
               title="Personal Movie Collection"
               description="A movie list web app to save, rate, and describe personal movie collections. Users can mark favorites and write reviews."
-              ghLink="#https://github.com/mukhthar016/MOVIE_COLLECTION"
+              ghLink="https://github.com/mukhthar016/MOVIE_COLLECTION"
               demoLink="#"
             />
           </Col>
